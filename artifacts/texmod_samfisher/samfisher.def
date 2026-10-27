@@ -1,0 +1,7 @@
+# Sam Fisher (Blackwatch Commando) -> Prototype PS3
+#
+# Texmod id 0x35931490 exists only in the PC build; it is not an RCF hash.
+# The PS3 replacement target is the Blackwatch soldier body atlas, which is
+# the only 1024x256 DXT1 character diffuse in art.rcf (Soldier.p3d, shared
+# byte-for-byte with pilot_disguise.p3d).
+art.rcf:3ED441FA:000DCB50|samfisher_3ED441FA_000DCB50.dds

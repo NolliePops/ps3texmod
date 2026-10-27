@@ -1,0 +1,449 @@
+{
+  "generated": "2026-10-27T02:24:19Z",
+  "elf": {
+    "size": 1318752,
+    "sha256": "8f0feae86062050000199c512da0c293a644e2a580b66f9944b54e51d6fe8bac",
+    "entry": 268435456,
+    "loads": 5
+  },
+  "self": {
+    "size": 154272,
+    "sha256": "bf2d41363349df0ccb3a6ea5110b9d5dc7e3645949544a354d84d7a5e4a61772",
+    "key_revision": 1,
+    "header_size": 2688,
+    "embedded_elf_size": 528960
+  },
+  "fake_self": {
+    "size": 531392,
+    "sha256": "1d0cd4a0e054c652e8b11a7a9bd9a2011548b098062850d036c239f0a4313d9f",
+    "key_revision": 32768,
+    "header_size": 2432,
+    "embedded_elf_size": 528960
+  },
+  "eboot": {
+    "size": 154400,
+    "sha256": "de7cbd0a9d37e54f9dc43fd89cbdada0c2127cf779808e74000bb50f2b7a3f21",
+    "key_revision": 1,
+    "header_size": 2816,
+    "embedded_elf_size": 528960
+  },
+  "pkg": {
+    "size": 158592,
+    "sha256": "6a0d9fc68f741b33b1d2958d60c51a3c1c8086a2b74855fb25bf5fb82c0b9332",
+    "content_id": "UP0001-PS3TEXMD1_00-0000000000000000",
+    "items": {
+      "ICON0.PNG": {
+        "size": 2527,
+        "type": 2147483651
+      },
+      "PARAM.SFO": {
+        "size": 1040,
+        "type": 2147483651
+      },
+      "USRDIR": {
+        "size": 0,
+        "type": 2147483652
+      },
+      "USRDIR/EBOOT.BIN": {
+        "size": 154416,
+        "type": 2147483649
+      }
+    },
+    "data_offset": 320,
+    "data_size": 158176,
+    "footer": 96
+  },
+  "sfo": {
+    "APP_VER": "01.00",
+    "ATTRIBUTE": 0,
+    "BOOTABLE": 1,
+    "CATEGORY": "HG",
+    "LICENSE": "ps3texmod - a texture mod installer for Prototype (2009) on jailbroken / CFW PS3 consoles. Supports BLUS30145 and NPUB30389 installs. Not affiliated with Sony Computer Entertainment or Activision.",
+    "PARENTAL_LEVEL": 0,
+    "PS3_SYSTEM_VER": "03.5500",
+    "RESOLUTION": 63,
+    "SOUND_FORMAT": 279,
+    "TITLE": "ps3texmod - Prototype texture installer",
+    "TITLE_ID": "PS3TEXMD1",
+    "VERSION": "01.00"
+  },
+  "gnpdrm": {
+    "size": 158592,
+    "sha256": "5a7fada18a213134c45a4e07e451d8bcdc2ea6b84bab376c3863360408142725",
+    "type": 2147483649
+  },
+  "checks": [
+    {
+      "check": "elf: magic",
+      "ok": true,
+      "detail": "size 1318752"
+    },
+    {
+      "check": "elf: class ELF64",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "elf: big endian",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "elf: OS/ABI 0x66 (Cell LV2)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "elf: type EXEC",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "elf: machine PowerPC64",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "elf: entry 0x10000000",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "elf: program headers present",
+      "ok": true,
+      "detail": "8 entries"
+    },
+    {
+      "check": "elf: has LOAD segments",
+      "ok": true,
+      "detail": "5 LOAD"
+    },
+    {
+      "check": "strip: stripped ELF smaller than raw ELF",
+      "ok": true,
+      "detail": "528960 < 1318752"
+    },
+    {
+      "check": "self: magic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "self: SCE version 2",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "self: key revision",
+      "ok": true,
+      "detail": "0x0001"
+    },
+    {
+      "check": "self: header type 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "self: metadata offset inside header",
+      "ok": true,
+      "detail": "0x3f0 < 0xa80"
+    },
+    {
+      "check": "self: header smaller than file",
+      "ok": true,
+      "detail": "0xa80 < 0x25aa0"
+    },
+    {
+      "check": "self: embedded ELF size",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "fake.self: magic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "fake.self: SCE version 2",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "fake.self: key revision",
+      "ok": true,
+      "detail": "0x8000"
+    },
+    {
+      "check": "fake.self: header type 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "fake.self: metadata offset inside header",
+      "ok": true,
+      "detail": "0x410 < 0x980"
+    },
+    {
+      "check": "fake.self: header smaller than file",
+      "ok": true,
+      "detail": "0x980 < 0x81bc0"
+    },
+    {
+      "check": "fake.self: embedded ELF size",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "eboot: magic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "eboot: SCE version 2",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "eboot: key revision",
+      "ok": true,
+      "detail": "0x0001"
+    },
+    {
+      "check": "eboot: header type 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "eboot: metadata offset inside header",
+      "ok": true,
+      "detail": "0x480 < 0xb00"
+    },
+    {
+      "check": "eboot: header smaller than file",
+      "ok": true,
+      "detail": "0xb00 < 0x25b20"
+    },
+    {
+      "check": "eboot: embedded ELF size",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: magic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: debug type",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: package size field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: 0x60-byte footer after data",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: data_offset + data_size + footer == file",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: content id",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: header digest present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: data IV present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: debug footer is zero",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: decrypted payload size",
+      "ok": true,
+      "detail": "158176"
+    },
+    {
+      "check": "pkg: item 'ICON0.PNG' fits payload",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'PARAM.SFO' fits payload",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'USRDIR' fits payload",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'USRDIR/EBOOT.BIN' fits payload",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item count",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'ICON0.PNG' present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'ICON0.PNG' type",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'PARAM.SFO' present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'PARAM.SFO' type",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'USRDIR' present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'USRDIR' type",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'USRDIR/EBOOT.BIN' present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: item 'USRDIR/EBOOT.BIN' type",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: ICON0.PNG matches pkg/ICON0.PNG",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: ICON0.PNG is a PNG",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: PARAM.SFO matches build/pkg/PARAM.SFO",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: EBOOT.BIN length",
+      "ok": true,
+      "detail": "stored 154416, file 154400"
+    },
+    {
+      "check": "pkg: EBOOT.BIN prefix matches build EBOOT",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "pkg: EBOOT.BIN trailing pad is zero",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: parsed",
+      "ok": true,
+      "detail": "12 fields"
+    },
+    {
+      "check": "sfo: TITLE_ID",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: TITLE",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: CATEGORY",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: APP_VER",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: VERSION",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: PS3_SYSTEM_VER",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: BOOTABLE",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sfo: PARENTAL_LEVEL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "gnpdrm: same size as debug pkg",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "gnpdrm: finalize flag at offset 4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "gnpdrm: type 0x80000001",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "gnpdrm: SHA-1 trailer",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "gnpdrm: trailer padding is zero",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "passed": 74,
+  "failed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "source": "C:\\Users\\wedde\\Downloads\\prototypeps3modlauncher\\Prototype (USA, Korea) (En,Fr)\\PS3_GAME\\USRDIR\\art.rcf",
+  "source_sha256": "e0eb529de3f666e928939c5154f9a15fd511b2640d1879e53574905fc3fdfdd1",
+  "workdir": "C:\\Users\\wedde\\AppData\\Local\\Temp\\ps3texmod-real-e2e",
+  "checks_passed": 35,
+  "checks_failed": 0,
+  "failures": [],
+  "elapsed_seconds": 112.98,
+  "steps": {
+    "inplace_patch": {
+      "mode": "inplace"
+    },
+    "embedded_rebuild": {
+      "mode": "rebuild-inplace",
+      "seconds": 4.21
+    },
+    "install": {
+      "seconds": 16.54,
+      "packs": 1,
+      "textures": 1
+    }
+  }
+}

@@ -1,0 +1,662 @@
+[
+ {
+  "id": "cached.rcf:0145E0D7:0044F777",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_67.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:0145E0D7:0045A3A2",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_67.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:1BEFB5D2:002EE5D5",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_17.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:1BEFB5D2:002F9200",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_17.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:2643429E:000864C5",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_71.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:2643429E:002AB41D",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_71.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:2643429E:002B6048",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_71.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:29CEBED9:001424CB",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_87.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:29CEBED9:0014D0F6",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_87.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:2DA922F9:0033A30E",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_76.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:2DA922F9:00344F39",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_76.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:447893D4:00234D16",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_37.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:447893D4:0023F941",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_37.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:4ECC20A0:004F068E",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_91.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:4ECC20A0:004FB2AD",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_91.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:563200FB:004C03AC",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_96.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:563200FB:004CAFCB",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_96.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:6D0171D6:002D2EFC",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_57.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:6D0171D6:002DDB27",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_57.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:74B63A16:00201571",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_35.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:74B63A16:0020C19C",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_35.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:91FED39D:00544BA6",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_61.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:91FED39D:0054F7D1",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_61.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:958A4FD8:00164D7B",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_77.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:958A4FD8:0016F9A6",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_77.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:9964B3F8:00380F07",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_66.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:9964B3F8:0038BB32",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_66.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:B03424D3:00113CF7",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_27.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:B03424D3:0011E922",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_27.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:B5CE165C:00462154",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_101.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:B5CE165C:0046CD73",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_101.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:BA87B19F:0038D394",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_81.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:BA87B19F:00397FB3",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_81.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:BD33F6B7:0032A59A",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_106.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:BD33F6B7:003351B9",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_106.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:C1ED91FA:0043FD78",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_86.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:C1ED91FA:0044A997",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_86.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:C711391D:0016B806",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_254.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:D531869A:00224752",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_31.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:D531869A:0022F37D",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_31.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:D8BD02D5:00100D0E",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT1",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_47.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:D8BD02D5:0010B939",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_47.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:DA7C903E:00608C1C",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_132.p3d.rz"
+ },
+ {
+  "id": "cached.rcf:DA7C903E:0061E327",
+  "w": 512,
+  "h": 128,
+  "fmt": "DXT5",
+  "spots": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "mean": 0.0,
+  "score": 0.0,
+  "name": "\\art\\locations\\manhattan\\manhattan_Cell_132.p3d.rz"
+ }
+]
